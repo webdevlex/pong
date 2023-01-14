@@ -25,8 +25,8 @@ Pong is a clone of the Atari game pong released in 1972 created with python usin
 
 ## Usage
 
-1. Start by downloading the pong.exe file found in the dist branch.
-2. Run the pong.exe.
+1. Start by downloading the dist branch.
+2. Run pong.exe found in the folder.
 3. Choose your difficulty.
 
   <img src="./assets/difficulty.PNG" alt="getting started" width="600"/>
