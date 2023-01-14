@@ -36,16 +36,16 @@ Pong is a clone of the Atari game pong released in 1972 created with python usin
 
   <img src="./assets/pong.gif" alt="getting started" width="600"/>
 
-6. Can you complete all 3 difficulties?
+6. Can you complete all 3 difficulties? 🕹️
 
 ## Built With
 
-- Python
-- Pygame
+- Python 🐍
+- Pygame 🕹️
 
 ## Future Updates
 
-- [ ] Power ups - _Spice things up with ingame power ups and abilites._
+- [ ] Power ups - _Spice things up with in-game power ups and abilites._
 - [ ] Multiplayer - _Play locally with a friend using the same keyboard._
 - [ ] Game modes - _Add new fun and exciting game modes._
 
