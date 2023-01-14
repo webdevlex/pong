@@ -14,7 +14,7 @@ Pong is a clone of the Atari game pong released in 1972 created with python usin
 
 ## Table of Contents
 
-- [**Whoo**](#listening-lobby)
+- [**Pong**](#pong)
   - [_Features_](#features)
 - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
