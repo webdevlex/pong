@@ -45,7 +45,7 @@ Pong is a clone of the Atari game pong released in 1972 created with python usin
 
 ## Future Updates
 
-- [ ] Power ups - _Spice things up with in-game power ups and abilites._
+- [ ] Power ups - _Spice things up with in-game power ups and abilities._
 - [ ] Multiplayer - _Play locally with a friend using the same keyboard._
 - [ ] Game modes - _Add new fun and exciting game modes._
 
