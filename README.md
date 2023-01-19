@@ -2,7 +2,7 @@
 
 Pong is a clone of the Atari game pong released in 1972 created with python using pygame.
 
-<img src="./assets/pong-cover.PNG" alt="getting started" width="800"/>
+<img src="./assets/pong-cover.gif" alt="getting started" width="800"/>
 
 ### _Features_
 
